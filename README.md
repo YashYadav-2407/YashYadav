@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashyadav-2407&show_icons=true&locale=en&layout=compact" alt="yashyadav-2407" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashyadav-2407&" alt="yashyadav-2407" /></p>
+<p href="https://leetcode.com/u/yash_yadav_2407", alt="yash_yadav_2407"</p>
